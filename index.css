@@ -1,0 +1,22 @@
+body {
+  background-image: url('./bg.png');
+  text-align: center;
+  padding-top: 185px;
+}
+
+h1 {
+  color: darkorange;
+  font-size: 48px;
+}
+
+h3 {
+  color:darkcyan;
+  font-size: 24px;
+}
+
+button {
+  color: white;
+  background-color: darkviolet;
+  padding: 10px;
+}
+
